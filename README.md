@@ -25,12 +25,13 @@ Din `package.json` skulle gerne indeholde disse dependencies efter du har instal
     "@react-navigation/native": "^7.1.17",
     "@react-navigation/native-stack": "^7.3.26",
     "@react-navigation/stack": "^7.4.8",
-    "expo": "~54.0.0",
-    "expo-status-bar": "~3.0.8",
-    "react": "19.1.0",
-    "react-native": "0.81.4",
-    "react-native-safe-area-context": "5.6.0",
-    "react-native-screens": "~4.16.0"
+    "expo": "^57.0.20",
+    "expo-status-bar": "~57.0.1",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-gesture-handler": "~2.32.0",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-screens": "~4.26.0"
   },
 ```
 *tip* du kan også kopiere overstående ind i din `package.json` og kører `npm install` efterfølgende.
